@@ -1,0 +1,12 @@
+{
+  "name": "paymix",
+  "version": "1.0.0",
+  "description": "PAYMİX payment site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
